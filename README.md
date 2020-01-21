@@ -1,4 +1,4 @@
-# Automação com System Insights (Informações do Sistema) – Habilitando a eliminação de duplicação de dados.
+# Automação com System Insights (Informações do Sistema) – Habilitando a Eliminação de Duplicação de Dados.
 
 
 Conteúdo:
