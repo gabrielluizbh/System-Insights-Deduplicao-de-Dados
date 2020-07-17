@@ -1,10 +1,17 @@
 # Automação com System Insights (Informações do Sistema) – Habilitando a Eliminação de Duplicação de Dados.
 
+Script System Insights - Desabilitando a Deduplicação de dados em um volume
+
+Script System Insights - Instalando e habilitando a Deduplicação de dados em um volume
 
 Conteúdo:
 
-Script System Insights - Instalando e habilitando a Deduplicação de dados em um volume - Créditos Gabriel Luiz - www.gabrielluiz.com
 
-Script System Insights - Desabilitando a Deduplicação de dados em um volume - Créditos Gabriel Luiz - www.gabrielluiz.com
+ScriptSystemInsightsDesabilitandoaDeduplicaçãodedadosemumvolume.ps1
+
+
+
 
 Para maior entendimento para execução do script acesse o link do artigo:  http://gabrielluiz.com/2020/01/system-insights-duplicacao-de-dados
+
+Créditos Gabriel Luiz - www.gabrielluiz.com
