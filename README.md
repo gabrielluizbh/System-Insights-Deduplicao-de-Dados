@@ -8,6 +8,7 @@ ScriptSystemInsightsInstalandoehabilitandoaDeduplicaçãodedadosemumvolume.ps1
 
 ScriptSystemInsightsDesabilitandoaDeduplicaçãodedadosemumvolume.ps1
 
+
 Para maior entendimento para execução do script acesse o link do artigo:  http://gabrielluiz.com/2020/01/system-insights-duplicacao-de-dados
 
 
