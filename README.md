@@ -2,9 +2,11 @@
 
 Conteúdo:
 
-ScriptSystemInsightsDesabilitandoaDeduplicaçãodedadosemumvolume.ps1 - Script System Insights - Desabilitando a Deduplicação de dados em um volume.
+Script System Insights - Desabilitando a Deduplicação de dados em um volume.
+ScriptSystemInsightsDesabilitandoaDeduplicaçãodedadosemumvolume.ps1
 
-ScriptSystemInsightsInstalandoehabilitandoaDeduplicaçãodedadosemumvolume.ps1 Script System Insights - Instalando e habilitando a Deduplicação de dados em um volume.
+Instalando e habilitando a Deduplicação de dados em um volume.
+ScriptSystemInsightsInstalandoehabilitandoaDeduplicaçãodedadosemumvolume.ps1 Script System Insights
 
 
 Para maior entendimento para execução do script acesse o link do artigo:  http://gabrielluiz.com/2020/01/system-insights-duplicacao-de-dados
